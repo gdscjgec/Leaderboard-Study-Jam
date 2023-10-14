@@ -20,6 +20,8 @@ function fetchData() {
       // sorting
       information = information.sort(sortby);
 
+      information = information.filter(prod => (prod["Redemption Status"] == "Yes" || prod["Student Name"] == "SIDDHARTHA PATRA"));
+
       console.log(information);
 
       for (i = 0; i < elems.length; i++) {
@@ -33,7 +35,7 @@ function fetchData() {
           td4 = document.createElement("td");
           td5 = document.createElement("td");
           td6 = document.createElement("td");
-          td7 = document.createElement("td");
+          // td7 = document.createElement("td");
           td0.textContent = j + 1;
           tr.appendChild(td0);
           td1.textContent = information[j]["Student Name"];
@@ -48,8 +50,8 @@ function fetchData() {
           tr.appendChild(td5);
           td6.textContent = information[j]["Total Completions of both Pathways"];
           tr.appendChild(td6);
-          td7.textContent = information[j]["Redemption Status"];
-          tr.appendChild(td7);
+          // td7.textContent = information[j]["Redemption Status"];
+          // tr.appendChild(td7);
           elem.appendChild(tr);
         }
       }
