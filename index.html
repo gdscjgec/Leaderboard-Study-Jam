@@ -17,10 +17,14 @@
       <h2>
         LEADERBOARD
       </h2>
+      <form id="searchForm"> 
+        <input type="text" id="searchInput" name="searchInput" placeholder="Enter your Name"/>
+        <button type="submit" value="Search" id="searchButton">search</button>
+      </form>
     </div>
 
     <div id="table-container">
-      <table class="styled-table">
+      <table id="resultsTable" class="styled-table">
         <thead>
           <tr>
             <th>Serial Number</th>

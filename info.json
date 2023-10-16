@@ -1,6 +1,6 @@
 [
   {
-    "Student Name": "Sudipta Das",
+    "studentName": "Sudipta Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -9,7 +9,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Md.Sadik",
+    "studentName": "Md.Sadik",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -18,7 +18,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "SNEHASHIS DHARA",
+    "studentName": "SNEHASHIS DHARA",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -27,7 +27,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Yusuf Ali",
+    "studentName": "Yusuf Ali",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -36,7 +36,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Bhaskar Das",
+    "studentName": "Bhaskar Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -45,7 +45,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Saagnik Mondal",
+    "studentName": "Saagnik Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -54,7 +54,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Saikat Barai",
+    "studentName": "Saikat Barai",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -63,7 +63,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "SIDDHARTHA PATRA",
+    "studentName": "SIDDHARTHA PATRA",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -72,7 +72,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "DHRUBAJYOTI GHOSH",
+    "studentName": "DHRUBAJYOTI GHOSH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -81,7 +81,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Kriteeka Modak",
+    "studentName": "Kriteeka Modak",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -90,7 +90,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Anish Bhuin",
+    "studentName": "Anish Bhuin",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -99,7 +99,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "PRAJWAL LAKRA",
+    "studentName": "PRAJWAL LAKRA",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -108,7 +108,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "ANJALI SINGH",
+    "studentName": "ANJALI SINGH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -117,7 +117,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SUSHIL SINGH",
+    "studentName": "SUSHIL SINGH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -126,7 +126,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Md Saquib",
+    "studentName": "Md Saquib",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -135,7 +135,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Anirban Mallick",
+    "studentName": "Anirban Mallick",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -144,7 +144,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sachin Kumar Barman",
+    "studentName": "Sachin Kumar Barman",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -153,7 +153,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Subhajit Barman",
+    "studentName": "Subhajit Barman",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -162,7 +162,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SAYED HOSSAIN ANSARI",
+    "studentName": "SAYED HOSSAIN ANSARI",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -171,7 +171,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sahil Roy",
+    "studentName": "Sahil Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -180,7 +180,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Soumodwip Mondal",
+    "studentName": "Soumodwip Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -189,7 +189,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sumit Prasad Gupta",
+    "studentName": "Sumit Prasad Gupta",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
@@ -198,7 +198,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Aman Mishra",
+    "studentName": "Aman Mishra",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -207,7 +207,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Aishik Patra",
+    "studentName": "Aishik Patra",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -216,7 +216,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sarthak Roy",
+    "studentName": "Sarthak Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -225,7 +225,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Shreya Sarkar",
+    "studentName": "Shreya Sarkar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
@@ -234,7 +234,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "DEBOJYOTI GHOSH",
+    "studentName": "DEBOJYOTI GHOSH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -243,7 +243,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Arghya Das",
+    "studentName": "Arghya Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -252,7 +252,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Sayantan pal",
+    "studentName": "Sayantan pal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -261,7 +261,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Shourya Sam",
+    "studentName": "Shourya Sam",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -270,7 +270,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Tojibur Rahaman",
+    "studentName": "Tojibur Rahaman",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -279,7 +279,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Mayukh Mondal",
+    "studentName": "Mayukh Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -288,7 +288,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Md Moudud Khan",
+    "studentName": "Md Moudud Khan",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -297,7 +297,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ankita Gurung",
+    "studentName": "Ankita Gurung",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -306,7 +306,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Subhraneel Ghosh",
+    "studentName": "Subhraneel Ghosh",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -315,7 +315,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Pritam Bera",
+    "studentName": "Pritam Bera",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -324,7 +324,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Raj Sarkar",
+    "studentName": "Raj Sarkar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -333,7 +333,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Sayandip Saha",
+    "studentName": "Sayandip Saha",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -342,7 +342,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "AFTAB ALAM",
+    "studentName": "AFTAB ALAM",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -351,7 +351,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Swastik Das",
+    "studentName": "Swastik Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -360,7 +360,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Soumyadip Manna",
+    "studentName": "Soumyadip Manna",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -369,7 +369,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Bhairab Gorai",
+    "studentName": "Bhairab Gorai",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -378,7 +378,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Pratyay Roy",
+    "studentName": "Pratyay Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -387,7 +387,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Koustav Kundu",
+    "studentName": "Koustav Kundu",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -396,7 +396,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Ayan Samanta",
+    "studentName": "Ayan Samanta",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -405,7 +405,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Aritra Dhabal",
+    "studentName": "Aritra Dhabal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -414,7 +414,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Janapriya Roy",
+    "studentName": "Janapriya Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -423,7 +423,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Raj Mondal",
+    "studentName": "Raj Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -432,7 +432,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "DEVASMITA CHAKRABORTTY",
+    "studentName": "DEVASMITA CHAKRABORTTY",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -441,7 +441,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sayan Majumder",
+    "studentName": "Sayan Majumder",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -450,7 +450,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Arnab Jana",
+    "studentName": "Arnab Jana",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -459,7 +459,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Priyanka Sharma",
+    "studentName": "Priyanka Sharma",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -468,7 +468,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Shivam Singh",
+    "studentName": "Shivam Singh",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -477,7 +477,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Maruf Halder",
+    "studentName": "Maruf Halder",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -486,7 +486,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Shuvadeep Biswas",
+    "studentName": "Shuvadeep Biswas",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -495,7 +495,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Anand Raj Singh",
+    "studentName": "Anand Raj Singh",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -504,7 +504,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Aryan Burnwal",
+    "studentName": "Aryan Burnwal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -513,7 +513,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Pratik Mondal",
+    "studentName": "Pratik Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -522,7 +522,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "RABINDRA NATH DEY",
+    "studentName": "RABINDRA NATH DEY",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -531,7 +531,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "DEBRAJ DALAI",
+    "studentName": "DEBRAJ DALAI",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -540,7 +540,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SOUMIK GHATAK",
+    "studentName": "SOUMIK GHATAK",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 1,
@@ -549,7 +549,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Vishal Prasad",
+    "studentName": "Vishal Prasad",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -558,7 +558,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Priyangsu Kesh",
+    "studentName": "Priyangsu Kesh",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -567,7 +567,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ankit Ghosh",
+    "studentName": "Ankit Ghosh",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -576,7 +576,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Beprodeep Das",
+    "studentName": "Beprodeep Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -585,7 +585,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Satyam Mishra",
+    "studentName": "Satyam Mishra",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -594,7 +594,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Swarnava Dey",
+    "studentName": "Swarnava Dey",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
@@ -603,7 +603,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Priyanshu Pandey",
+    "studentName": "Priyanshu Pandey",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -612,7 +612,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Agniva Shee",
+    "studentName": "Agniva Shee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 1,
@@ -621,7 +621,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Samarjit Santra",
+    "studentName": "Samarjit Santra",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -630,7 +630,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sujit Kumar Yadav",
+    "studentName": "Sujit Kumar Yadav",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -639,7 +639,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SUBHAM RAUL",
+    "studentName": "SUBHAM RAUL",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 2,
     "# of Skill Badges Completed": 2,
@@ -648,7 +648,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Mannu Kumar Verma",
+    "studentName": "Mannu Kumar Verma",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -657,7 +657,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Bishal Roy",
+    "studentName": "Bishal Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -666,7 +666,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Partha Sarathi Kuity",
+    "studentName": "Partha Sarathi Kuity",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -675,7 +675,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Poulomi Mondal",
+    "studentName": "Poulomi Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -684,7 +684,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sayam Majumdar",
+    "studentName": "Sayam Majumdar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -693,7 +693,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Arya Banerjee",
+    "studentName": "Arya Banerjee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -702,7 +702,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Pritam Sardar",
+    "studentName": "Pritam Sardar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -711,7 +711,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sanglap Halder",
+    "studentName": "Sanglap Halder",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -720,7 +720,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Soham Sarkar",
+    "studentName": "Soham Sarkar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -729,7 +729,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Suvayu Nandy",
+    "studentName": "Suvayu Nandy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -738,7 +738,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Soham Sadhukhan",
+    "studentName": "Soham Sadhukhan",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -747,7 +747,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Soumyajit Chakraborty",
+    "studentName": "Soumyajit Chakraborty",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
@@ -756,7 +756,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sandipan Mukherjee",
+    "studentName": "Sandipan Mukherjee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -765,7 +765,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Gourav Rajak",
+    "studentName": "Gourav Rajak",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -774,7 +774,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rahul Das",
+    "studentName": "Rahul Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -783,7 +783,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Supradip Karmakar",
+    "studentName": "Supradip Karmakar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -792,7 +792,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Debayan Pal",
+    "studentName": "Debayan Pal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -801,7 +801,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sk Najir",
+    "studentName": "Sk Najir",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -810,7 +810,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Tejal Basak",
+    "studentName": "Tejal Basak",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -819,7 +819,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sohel Rana Sardar",
+    "studentName": "Sohel Rana Sardar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -828,7 +828,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sayan Sarkar",
+    "studentName": "Sayan Sarkar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -837,7 +837,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Shirshak Pal",
+    "studentName": "Shirshak Pal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -846,7 +846,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Akash Mondal",
+    "studentName": "Akash Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -855,7 +855,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Amrik Hore",
+    "studentName": "Amrik Hore",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -864,7 +864,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rishav Das",
+    "studentName": "Rishav Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -873,7 +873,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "ANKIT BERA",
+    "studentName": "ANKIT BERA",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -882,7 +882,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Aditya Das",
+    "studentName": "Aditya Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -891,7 +891,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Suman paul",
+    "studentName": "Suman paul",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -900,7 +900,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SUBHA BHATTACHARYA",
+    "studentName": "SUBHA BHATTACHARYA",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -909,7 +909,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Jayanta Chakraborty",
+    "studentName": "Jayanta Chakraborty",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 3,
@@ -918,7 +918,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "ATISH KUMAR SAREN",
+    "studentName": "ATISH KUMAR SAREN",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 4,
@@ -927,7 +927,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "pritam mohanta",
+    "studentName": "pritam mohanta",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -936,7 +936,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Shubhajit kundu",
+    "studentName": "Shubhajit kundu",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -945,7 +945,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Tania Banerjee",
+    "studentName": "Tania Banerjee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -954,7 +954,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SARBIK CHATTERJEE",
+    "studentName": "SARBIK CHATTERJEE",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -963,7 +963,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Prerona Kar",
+    "studentName": "Prerona Kar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
@@ -972,7 +972,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SHIBAM PHARIKAL",
+    "studentName": "SHIBAM PHARIKAL",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -981,7 +981,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "MD TOUFIQUE",
+    "studentName": "MD TOUFIQUE",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -990,7 +990,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rupam Karmakar",
+    "studentName": "Rupam Karmakar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -999,7 +999,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Chaiti Sen",
+    "studentName": "Chaiti Sen",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1008,7 +1008,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "RUPAM SADHUKHAN",
+    "studentName": "RUPAM SADHUKHAN",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 1,
@@ -1017,7 +1017,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Hossain Md Intekhab Alam",
+    "studentName": "Hossain Md Intekhab Alam",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1026,7 +1026,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Md Shad Ibrar",
+    "studentName": "Md Shad Ibrar",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1035,7 +1035,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rajesh Barai",
+    "studentName": "Rajesh Barai",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1044,7 +1044,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SUBHAS MONDAL",
+    "studentName": "SUBHAS MONDAL",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1053,7 +1053,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Subhraneel Bera",
+    "studentName": "Subhraneel Bera",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1062,7 +1062,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Nirman Dey",
+    "studentName": "Nirman Dey",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1071,7 +1071,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sambaran Banerjee",
+    "studentName": "Sambaran Banerjee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 2,
     "# of Skill Badges Completed": 1,
@@ -1080,7 +1080,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sananya Roy",
+    "studentName": "Sananya Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1089,7 +1089,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "MEHEDI HASAN MONDAL",
+    "studentName": "MEHEDI HASAN MONDAL",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1098,7 +1098,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Subhadeep Mandal",
+    "studentName": "Subhadeep Mandal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1107,7 +1107,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ashutosh Bhakat",
+    "studentName": "Ashutosh Bhakat",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
     "# of Skill Badges Completed": 3,
@@ -1116,7 +1116,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "MD NURUZZAMAN",
+    "studentName": "MD NURUZZAMAN",
     "Enrolment Status": "Wrong Google Cloud Skills Boost Public Profile URL",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1125,7 +1125,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Sudarshana Bhattacharyya",
+    "studentName": "Sudarshana Bhattacharyya",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1134,7 +1134,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "SK RAJESH",
+    "studentName": "SK RAJESH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1143,7 +1143,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Siddharth Biswas",
+    "studentName": "Siddharth Biswas",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1152,7 +1152,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "RITAM GHOSH",
+    "studentName": "RITAM GHOSH",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1161,7 +1161,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ananya Chowdhury",
+    "studentName": "Ananya Chowdhury",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1170,7 +1170,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Neha Laha",
+    "studentName": "Neha Laha",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1179,7 +1179,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Arkaprova De",
+    "studentName": "Arkaprova De",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1188,7 +1188,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Abhidipta Roy",
+    "studentName": "Abhidipta Roy",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 3,
@@ -1197,7 +1197,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "RAJIB SK",
+    "studentName": "RAJIB SK",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1206,7 +1206,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Rajdip Pal",
+    "studentName": "Rajdip Pal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1215,7 +1215,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "SOUMITRA CHOWDHURY",
+    "studentName": "SOUMITRA CHOWDHURY",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1224,7 +1224,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ronit Barnawal",
+    "studentName": "Ronit Barnawal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1233,7 +1233,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rohit Mondal",
+    "studentName": "Rohit Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1242,7 +1242,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Sowham Bhuin",
+    "studentName": "Sowham Bhuin",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1251,7 +1251,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Koushik hazra",
+    "studentName": "Koushik hazra",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1260,7 +1260,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Bubai Mandal",
+    "studentName": "Bubai Mandal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1269,7 +1269,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Subhajit Das",
+    "studentName": "Subhajit Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1278,7 +1278,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Anikeat Som",
+    "studentName": "Anikeat Som",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1287,7 +1287,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Kshitij Ayush",
+    "studentName": "Kshitij Ayush",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1296,7 +1296,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Swadhin Paul",
+    "studentName": "Swadhin Paul",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1305,7 +1305,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Akash Majhi",
+    "studentName": "Akash Majhi",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1314,7 +1314,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Urnisha Paul",
+    "studentName": "Urnisha Paul",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 3,
     "# of Skill Badges Completed": 3,
@@ -1323,7 +1323,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Md. Mahshin Reza",
+    "studentName": "Md. Mahshin Reza",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1332,7 +1332,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Saptarshi Mondal",
+    "studentName": "Saptarshi Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1341,7 +1341,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Deep Mallick",
+    "studentName": "Deep Mallick",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1350,7 +1350,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Sandipan Chatterjee",
+    "studentName": "Sandipan Chatterjee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
@@ -1359,7 +1359,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Rajdeep Sadhu",
+    "studentName": "Rajdeep Sadhu",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1368,7 +1368,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Angshuman Pal",
+    "studentName": "Angshuman Pal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1377,7 +1377,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Ramkrishna Mondal",
+    "studentName": "Ramkrishna Mondal",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1386,7 +1386,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Trisanjit Das",
+    "studentName": "Trisanjit Das",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1395,7 +1395,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Debasis Mazumder",
+    "studentName": "Debasis Mazumder",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1404,7 +1404,7 @@
     "Redemption Status": "Yes"
   },
   {
-    "Student Name": "Ramij Ali",
+    "studentName": "Ramij Ali",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
@@ -1413,7 +1413,7 @@
     "Redemption Status": "No"
   },
   {
-    "Student Name": "Krishanu Biswas",
+    "studentName": "Krishanu Biswas",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,

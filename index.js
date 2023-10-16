@@ -14,13 +14,25 @@ function fetchData() {
       function sortby(a, b) {
         console.log(a["# of Skill Badges Completed"]);
         console.log(b["# of Skill Badges Completed"]);
-        var val = (- (a["# of Skill Badges Completed"] + a["# of Courses Completed"] + a["# of GenAI Game Completed"]) + (b["# of Skill Badges Completed"] + b["# of Courses Completed"] + b["# of GenAI Game Completed"]));
+        var val =
+          -(
+            a["# of Skill Badges Completed"] +
+            a["# of Courses Completed"] +
+            a["# of GenAI Game Completed"]
+          ) +
+          (b["# of Skill Badges Completed"] +
+            b["# of Courses Completed"] +
+            b["# of GenAI Game Completed"]);
         return val;
       }
       // sorting
       information = information.sort(sortby);
 
-      information = information.filter(prod => (prod["Redemption Status"] == "Yes" || prod["Student Name"] == "SIDDHARTHA PATRA"));
+      information = information.filter(
+        (prod) =>
+          prod["Redemption Status"] == "Yes" ||
+          prod["Student Name"] == "SIDDHARTHA PATRA"
+      );
 
       console.log(information);
 
@@ -38,7 +50,7 @@ function fetchData() {
           // td7 = document.createElement("td");
           td0.textContent = j + 1;
           tr.appendChild(td0);
-          td1.textContent = information[j]["Student Name"];
+          td1.textContent = information[j]["studentName"];
           tr.appendChild(td1);
           td2.textContent = information[j]["Enrolment Status"];
           tr.appendChild(td2);
@@ -48,7 +60,8 @@ function fetchData() {
           tr.appendChild(td4);
           td5.textContent = information[j]["# of GenAI Game Completed"];
           tr.appendChild(td5);
-          td6.textContent = information[j]["Total Completions of both Pathways"];
+          td6.textContent =
+            information[j]["Total Completions of both Pathways"];
           tr.appendChild(td6);
           // td7.textContent = information[j]["Redemption Status"];
           // tr.appendChild(td7);
@@ -64,18 +77,17 @@ function fetchData() {
 // Call the fetchData function when the page loads
 window.addEventListener("load", fetchData);
 
-
 const start = () => {
   setTimeout(function () {
-    confetti.start()
+    confetti.start();
   }, 1000); // 1000 is time that after 1 second start the confetti ( 1000 = 1 sec)
 };
 
-//  for stopping the confetti 
+//  for stopping the confetti
 
 const stop = () => {
   setTimeout(function () {
-    confetti.stop()
+    confetti.stop();
   }, 5000); // 5000 is time that after 5 second stop the confetti ( 5000 = 5 sec)
 };
 
@@ -83,12 +95,13 @@ const stop = () => {
 start();
 stop();
 
-
 // Get the button:
 let mybutton = document.getElementById("myBtn");
 
 // When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function () { scrollFunction() };
+window.onscroll = function () {
+  scrollFunction();
+};
 
 function scrollFunction() {
   if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
@@ -102,4 +115,60 @@ function scrollFunction() {
 function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+const searchForm = document.getElementById("searchForm");
+const searchInput = document.getElementById("searchInput");
+const resultsTable = document
+  .getElementById("resultsTable")
+  .getElementsByTagName("tbody")[0];
+
+searchForm.addEventListener("submit", function (e) {
+  e.preventDefault();
+  const searchQuery = searchInput.value.toLowerCase();
+  fetch("info.json")
+    .then((response) => {
+      return response.json();
+    })
+    .then((data) => {
+      const matchingStudents = searchStudentByName(data, searchQuery);
+      console.log(matchingStudents);
+      return matchingStudents;
+    })
+    .then((data) => displayResults(data));
+});
+
+function searchStudentByName(apiData, searchQuery) {
+  return apiData.filter((student) =>
+    student.studentName.toLowerCase().includes(searchQuery)
+  );
+}
+
+function displayResults(results) {
+  resultsTable.innerHTML = "";
+
+  if (results.length === 0) {
+    resultsTable.innerHTML =
+      '<tr><td colspan="3">No matching students found</td></tr>';
+  } else {
+    results.forEach((student, ind) => {
+      const row = resultsTable.insertRow();
+      const idCell = row.insertCell(0);
+      const nameCell = row.insertCell(1);
+      const statusCell = row.insertCell(2);
+      const courseCompletedCell = row.insertCell(3);
+      const badgeCell = row.insertCell(4);
+      const genaiCell = row.insertCell(5);
+      const totalCompletionCell = row.insertCell(6);
+
+      idCell.textContent = ind + 1;
+      nameCell.textContent = student.studentName;
+      statusCell.textContent = student["Enrolment Status"];
+      courseCompletedCell.textContent = student["# of Courses Completed"];
+      badgeCell.textContent = student["# of Skill Badges Completed"];
+      genaiCell.textContent = student["# of GenAI Game Completed"];
+      totalCompletionCell.textContent =
+        student["Total Completions of both Pathways"];
+    });
+  }
 }

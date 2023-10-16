@@ -20,6 +20,34 @@ h2 {
   font-weight: 500;
 }
 
+#searchForm {
+  margin: 20px;
+  text-align: center;
+  width: 75%;
+  max-width: 40rem;
+  margin: 0 auto;
+  display: flex;
+  gap: 0.2rem;
+}
+
+#searchInput {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 100%;
+}
+
+#searchButton {
+  padding: 10px 20px;
+  background-color: #007c63;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
 @media (max-width: 768px) {
   h1 {
     font-size: 2rem;
@@ -30,6 +58,9 @@ h2 {
   }
   th {
     font-size: 0.1rem;
+  }
+  #searchForm {
+    width: 100%; /* Take full width on smaller screens */
   }
 }
 
