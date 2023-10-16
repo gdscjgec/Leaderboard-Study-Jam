@@ -157,7 +157,7 @@
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -191,7 +191,7 @@
   {
     "Student Name": "Sumit Prasad Gupta",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 1,
+    "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -227,7 +227,7 @@
   {
     "Student Name": "Shreya Sarkar",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 2,
+    "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -335,7 +335,7 @@
   {
     "Student Name": "Sayandip Saha",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 0,
+    "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
@@ -615,7 +615,7 @@
     "Student Name": "Agniva Shee",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 1,
-    "# of Skill Badges Completed": 0,
+    "# of Skill Badges Completed": 1,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -641,8 +641,8 @@
   {
     "Student Name": "SUBHAM RAUL",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 0,
-    "# of Skill Badges Completed": 0,
+    "# of Courses Completed": 2,
+    "# of Skill Badges Completed": 2,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -741,9 +741,9 @@
     "Student Name": "Soham Sadhukhan",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 2,
+    "# of Skill Badges Completed": 4,
     "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -813,9 +813,9 @@
     "Student Name": "Tejal Basak",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 2,
+    "# of Skill Badges Completed": 4,
     "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -921,9 +921,9 @@
     "Student Name": "ATISH KUMAR SAREN",
     "Enrolment Status": "All Good",
     "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 2,
+    "# of Skill Badges Completed": 4,
     "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -931,7 +931,7 @@
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -940,7 +940,7 @@
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -1048,7 +1048,7 @@
     "Enrolment Status": "All Good",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -1190,8 +1190,8 @@
   {
     "Student Name": "Abhidipta Roy",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 2,
-    "# of Skill Badges Completed": 0,
+    "# of Courses Completed": 3,
+    "# of Skill Badges Completed": 3,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -1316,8 +1316,8 @@
   {
     "Student Name": "Urnisha Paul",
     "Enrolment Status": "All Good",
-    "# of Courses Completed": 2,
-    "# of Skill Badges Completed": 0,
+    "# of Courses Completed": 3,
+    "# of Skill Badges Completed": 3,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
