@@ -50,7 +50,7 @@ function fetchData() {
           // td7 = document.createElement("td");
           td0.textContent = j + 1;
           tr.appendChild(td0);
-          td1.textContent = information[j]["studentName"];
+          td1.textContent = information[j]["Student Name"];
           tr.appendChild(td1);
           td2.textContent = information[j]["Enrolment Status"];
           tr.appendChild(td2);
