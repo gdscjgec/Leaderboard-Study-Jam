@@ -140,7 +140,7 @@ searchForm.addEventListener("submit", function (e) {
 
 function searchStudentByName(apiData, searchQuery) {
   return apiData.filter((student) =>
-    student.studentName.toLowerCase().includes(searchQuery)
+    student["Student Name"].toLowerCase().includes(searchQuery)
   );
 }
 
@@ -162,7 +162,7 @@ function displayResults(results) {
       const totalCompletionCell = row.insertCell(6);
 
       idCell.textContent = ind + 1;
-      nameCell.textContent = student.studentName;
+      nameCell.textContent = student["Student Name"];
       statusCell.textContent = student["Enrolment Status"];
       courseCompletedCell.textContent = student["# of Courses Completed"];
       badgeCell.textContent = student["# of Skill Badges Completed"];
